@@ -1,0 +1,8 @@
+Clipboard Data :
+can docker runs only in ubuntu?
+
+Clipboard Data :
+ pip install sounddevice
+  File "<stdin>", line 1
+    pip install sounddeviceClipboard Data :
+hariharanR

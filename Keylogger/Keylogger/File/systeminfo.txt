@@ -1,0 +1,30 @@
+Public IP Address :110.224.91.233Processor :Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System:Windows 10.0.22621
+Machine :AMD64
+Hostname :--Holmes--
+Private IP Address :192.168.135.151
+Public IP Address :110.224.91.233Processor :Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System:Windows 10.0.22621
+Machine :AMD64
+Hostname :--Holmes--
+Private IP Address :192.168.135.151
+Public IP Address :110.224.91.233Processor :Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System:Windows 10.0.22621
+Machine :AMD64
+Hostname :--Holmes--
+Private IP Address :192.168.135.151
+Public IP Address :110.224.91.233Processor :Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System:Windows 10.0.22621
+Machine :AMD64
+Hostname :--Holmes--
+Private IP Address :192.168.135.151
+Public IP Address :110.224.91.233Processor :Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System:Windows 10.0.22621
+Machine :AMD64
+Hostname :--Holmes--
+Private IP Address :192.168.135.151
+Public IP Address :110.224.91.233Processor :Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System:Windows 10.0.22621
+Machine :AMD64
+Hostname :--Holmes--
+Private IP Address :192.168.135.151
